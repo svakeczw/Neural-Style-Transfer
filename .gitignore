@@ -4,3 +4,4 @@
 .idea/modules.xml
 .idea/Neural-Style-Transfer.iml
 *.xml
+.ipynb_checkpoints/NeuralStyleTransfer-checkpoint.ipynb
