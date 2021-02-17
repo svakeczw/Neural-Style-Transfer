@@ -9,4 +9,8 @@ Sydney Opera Hourse + The Starry Night(by Vincent van Gogh)
 
 
 Cat + Galloping Horse(by Xu Beihong徐悲鸿)
-![pic artwork 1](pics/generated_2.png "artwork 2")
+![pic artwork 2](pics/generated_2.png "artwork 2")
+
+
+selfie + Van Gogh self-portrait(by Vincent van Gogh)
+![pic_artwork_3](pics/generated_3.png "artwork 3")
